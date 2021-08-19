@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shadeRed/web-services-react-medals-classwork/static/css/main.bafced10.chunk.css",
+    "main.js": "/shadeRed/web-services-react-medals-classwork/static/js/main.05f22135.chunk.js",
+    "main.js.map": "/shadeRed/web-services-react-medals-classwork/static/js/main.05f22135.chunk.js.map",
+    "runtime-main.js": "/shadeRed/web-services-react-medals-classwork/static/js/runtime-main.3fa02b80.js",
+    "runtime-main.js.map": "/shadeRed/web-services-react-medals-classwork/static/js/runtime-main.3fa02b80.js.map",
+    "static/js/2.2281640f.chunk.js": "/shadeRed/web-services-react-medals-classwork/static/js/2.2281640f.chunk.js",
+    "static/js/2.2281640f.chunk.js.map": "/shadeRed/web-services-react-medals-classwork/static/js/2.2281640f.chunk.js.map",
+    "static/js/3.93169613.chunk.js": "/shadeRed/web-services-react-medals-classwork/static/js/3.93169613.chunk.js",
+    "static/js/3.93169613.chunk.js.map": "/shadeRed/web-services-react-medals-classwork/static/js/3.93169613.chunk.js.map",
+    "index.html": "/shadeRed/web-services-react-medals-classwork/index.html",
+    "static/css/main.bafced10.chunk.css.map": "/shadeRed/web-services-react-medals-classwork/static/css/main.bafced10.chunk.css.map",
+    "static/js/2.2281640f.chunk.js.LICENSE.txt": "/shadeRed/web-services-react-medals-classwork/static/js/2.2281640f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fa02b80.js",
+    "static/js/2.2281640f.chunk.js",
+    "static/css/main.bafced10.chunk.css",
+    "static/js/main.05f22135.chunk.js"
+  ]
+}
