@@ -1,7 +1,10 @@
 import './../css/MedalCount.css';
+import { Component } from 'react';
 
-export default function MedalCount(props) {
-    return (
-        <div className="medal-count"><p>{props.count}</p></div>
-    );
+export default class MedalCount extends Component {
+    render() {
+        return (
+            <div className="medal-count"><p>{this.props.count}</p></div>
+        )
+    }
 }
